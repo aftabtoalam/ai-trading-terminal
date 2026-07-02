@@ -44,17 +44,6 @@ Keeping everything modular makes the project easier to maintain and customize.
 ## 🔌 APIs
 Replace the existing API references with your own services.
 
-Supported examples:
-- Binance
-- Bybit
-- OKX
-- CoinGecko
-- TradingView
-- Gemini AI
-- OpenAI
-- Claude
-- Custom REST APIs
-
 ## 🛠 Customize
 You can easily modify
 - Colors
