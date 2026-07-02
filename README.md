@@ -4,11 +4,7 @@
 
 ![Terminal Preview](terminal-preview.png)
 
-NEXUS ALPHA OSS is a modern trading terminal UI built for developers, traders, and creators who want to build their own crypto trading platform.
-
-This project provides a clean frontend foundation with an institutional-inspired interface that can be connected to any exchange, AI model, or backend.
-
-Whether you're building a trading dashboard, AI assistant, portfolio manager, or fintech product, this project gives you a solid starting point.
+NEXUS ALPHA OSS is a modern trading terminal UI built for developers, traders, and creators who want to build their own crypto trading platform. Whether you're building a trading dashboard, AI assistant, portfolio manager, or fintech product, this project gives you a solid starting point.
 
 ## ✨ Features
 - Institutional Trading Terminal UI
@@ -46,7 +42,6 @@ assets/
 Keeping everything modular makes the project easier to maintain and customize.
 
 ## 🔌 APIs
-
 Replace the existing API references with your own services.
 
 Supported examples:
@@ -86,9 +81,7 @@ Open
 index.html
 ```
 
-Add your own API keys.
-
-Start building.
+Add your own API keys. Start building.
 
 ## 📌 Why Open Source?
 The goal of this project is to provide developers with a professional trading terminal UI that can be used as a foundation for building custom trading products.
@@ -96,9 +89,7 @@ The goal of this project is to provide developers with a professional trading te
 Feel free to fork it, improve it, and build something amazing. If you build something using this project, I'd love to see it!
 
 ## ⭐ Support
-If you like this project, ⭐ Star the repository
-
-🍴 Fork it, 💻 Build your own product and share your version with the community.
+If you like this project, ⭐ Star the repository. 🍴 Fork it, 💻 Build your own product and share your version with the community.
 
 ## ⚠ Disclaimer
 This project is intended for educational and development purposes only. Nothing in this repository should be considered financial advice.
