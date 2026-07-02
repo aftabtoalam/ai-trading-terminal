@@ -53,8 +53,6 @@ assets/
 
 Keeping everything modular makes the project easier to maintain and customize.
 
----
-
 ## 🔌 APIs
 
 Replace the existing API references with your own services.
@@ -71,8 +69,6 @@ Supported examples:
 - Claude
 - Custom REST APIs
 
----
-
 ## 🛠 Customize
 
 You can easily modify
@@ -88,8 +84,6 @@ You can easily modify
 - Backend APIs
 
 to create your own trading platform.
-
----
 
 ## 🚀 Getting Started
 
@@ -109,8 +103,6 @@ Add your own API keys.
 
 Start building.
 
----
-
 ## 📌 Why Open Source?
 
 The goal of this project is to provide developers with a professional trading terminal UI that can be used as a foundation for building custom trading products.
@@ -118,8 +110,6 @@ The goal of this project is to provide developers with a professional trading te
 Feel free to fork it, improve it, and build something amazing.
 
 If you build something using this project, I'd love to see it!
-
----
 
 ## ⭐ Support
 
@@ -133,12 +123,6 @@ If you like this project,
 
 and share your version with the community.
 
----
-
 ## ⚠ Disclaimer
 
-This project is intended for educational and development purposes only.
-
-Nothing in this repository should be considered financial advice.
-
-Trade responsibly.
+This project is intended for educational and development purposes only. Nothing in this repository should be considered financial advice.
