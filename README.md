@@ -10,10 +10,7 @@ This project provides a clean frontend foundation with an institutional-inspired
 
 Whether you're building a trading dashboard, AI assistant, portfolio manager, or fintech product, this project gives you a solid starting point.
 
----
-
 ## ✨ Features
-
 - Institutional Trading Terminal UI
 - TradingView Lightweight Charts
 - Live Binance Market Data
@@ -26,13 +23,8 @@ Whether you're building a trading dashboard, AI assistant, portfolio manager, or
 - Modern Dark Theme
 - Easy to Customize
 
----
-
 ## 📂 Project
-
-This repository includes everything required to start building immediately.
-
-Simply separate the code into individual files like a real production project.
+This repository includes everything required to start building immediately. Simply separate the code into individual files like a real production project.
 
 ```
 index.html
@@ -58,7 +50,6 @@ Keeping everything modular makes the project easier to maintain and customize.
 Replace the existing API references with your own services.
 
 Supported examples:
-
 - Binance
 - Bybit
 - OKX
@@ -70,9 +61,7 @@ Supported examples:
 - Custom REST APIs
 
 ## 🛠 Customize
-
 You can easily modify
-
 - Colors
 - Layout
 - Trading Pairs
@@ -82,11 +71,9 @@ You can easily modify
 - Dashboard Widgets
 - Charts
 - Backend APIs
-
 to create your own trading platform.
 
 ## 🚀 Getting Started
-
 Clone the repository
 
 ```bash
@@ -104,25 +91,14 @@ Add your own API keys.
 Start building.
 
 ## 📌 Why Open Source?
-
 The goal of this project is to provide developers with a professional trading terminal UI that can be used as a foundation for building custom trading products.
 
-Feel free to fork it, improve it, and build something amazing.
-
-If you build something using this project, I'd love to see it!
+Feel free to fork it, improve it, and build something amazing. If you build something using this project, I'd love to see it!
 
 ## ⭐ Support
+If you like this project, ⭐ Star the repository
 
-If you like this project,
-
-⭐ Star the repository
-
-🍴 Fork it
-
-💻 Build your own product
-
-and share your version with the community.
+🍴 Fork it, 💻 Build your own product and share your version with the community.
 
 ## ⚠ Disclaimer
-
 This project is intended for educational and development purposes only. Nothing in this repository should be considered financial advice.
